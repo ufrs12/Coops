@@ -9,7 +9,7 @@ classDef class5 fill:#5e3332, stroke:#000, stroke-width:4px
 
    
     A([Лига кредитных союзов])
-    B([Текст ссылки]):::class5
+    B([Ассоциация кредитных союзов "Гардарика"]):::class5
     C([Хотелось бы избежать.
       Мне не подходит.]):::class4
     D([Мой вариант]):::class3
@@ -28,4 +28,5 @@ classDef class5 fill:#5e3332, stroke:#000, stroke-width:4px
     A-->F;
 
    click A "https://ligaks.ru/"
+   click B "https://www.gardarikacu.ru/"
 ```
