@@ -9,7 +9,7 @@ classDef class5 fill:#5e3332, stroke:#000, stroke-width:4px
 
    
     A([Лига кредитных союзов])
-    B([Текст ссылки](https://www.example.com)):::class5
+    B[Текст ссылки](https://www.example.com):::class5
     C([Хотелось бы избежать.
       Мне не подходит.]):::class4
     D([Мой вариант]):::class3
