@@ -26,9 +26,7 @@ classDef class5 fill:#5e3332, stroke:#000, stroke-width:4px
          накопительный]):::class1
     I([Жилищный и
          Жилищно-строительный]):::class1
-    J([Гаражный,
-         Стояночный,
-         Эксплуатационный]):::class1
+    J([Гаражный]):::class1
     K([Кредитный
          потребительский]):::class1
     L([Общество взаимного
@@ -49,4 +47,10 @@ classDef class5 fill:#5e3332, stroke:#000, stroke-width:4px
    click C "https://www.zakonrf.info/gk/123.2/";
    click D "https://www.zakonrf.info/doc-15088991/";
    click E "https://www.zakonrf.info/doc-13529718/";
+   click F "https://www.zakonrf.info/doc-13241339/";
+   click G "https://www.zakonrf.info/doc-13529718/";
+   click H "https://www.zakonrf.info/zakon-o-jnk/";
+   click J "https://www.zakonrf.info/gk/123.2/";
+   click K "https://www.zakonrf.info/doc-16436731/";
+   click L "https://www.zakonrf.info/doc-16152437/";
 ```
