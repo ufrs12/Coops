@@ -13,10 +13,9 @@ classDef class4 fill:#5e4832, stroke:#000, stroke-width:4px
 classDef class5 fill:#5e3332, stroke:#000, stroke-width:4px
 
    
-    A([Обозначения])
-    B([Отвергаю]):::class5
-    C([Хотелось бы избежать.
-      Мне не подходит.]):::class4
+    A([Кооперативы])
+    B([Производственные]):::class5
+    C([Потребительские]):::class4
     D([Мой вариант]):::class3
     E([Более технологичный
       вариант, чем мой.  
@@ -27,9 +26,9 @@ classDef class5 fill:#5e3332, stroke:#000, stroke-width:4px
       на обозримое будущее.]):::class1
 
     A-->|Коммерческие| B;
-    A-->C;
-    A-->D;
-    A-->E;
-    A-->F;
+    A-->|Некоммерческие|C;
+    B-->D;
+    B-->E;
+    C-->F;
     click B "https://google.com";
 ```
