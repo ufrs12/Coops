@@ -26,7 +26,7 @@ classDef class5 fill:#5e3332, stroke:#000, stroke-width:4px
       даже не рассматриваю
       на обозримое будущее.]):::class1
 
-    A-->B;
+    A-->|Коммерческие| B;
     A-->C;
     A-->D;
     A-->E;
