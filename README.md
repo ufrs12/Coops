@@ -50,6 +50,7 @@ classDef class5 fill:#5e3332, stroke:#000, stroke-width:4px
    click F "https://www.zakonrf.info/doc-13241339/";
    click G "https://www.zakonrf.info/doc-13529718/";
    click H "https://www.zakonrf.info/zakon-o-jnk/";
+   click I "https://www.zakonrf.info/jk/gl11/";
    click J "https://www.zakonrf.info/gk/123.2/";
    click K "https://www.zakonrf.info/doc-16436731/";
    click L "https://www.zakonrf.info/doc-16152437/";
