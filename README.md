@@ -14,13 +14,11 @@ classDef class5 fill:#5e3332, stroke:#000, stroke-width:4px
 
    
     A([Кооперативы])
-    B([Производственные]):::class5
+    B([Производственные]):::class1
     C([Потребительские]):::class4
-    D([Мой вариант]):::class3
-    E([Более технологичный
-      вариант, чем мой.  
-      Возможно, к нему неплохо было бы
-      стремиться в будущем.]):::class2
+    D([Производственный]):::class1
+    E([Сельскохозяйственный
+      производственный]):::class1
     F([Сверхтехнологичный для меня,
       даже не рассматриваю
       на обозримое будущее.]):::class1
@@ -32,4 +30,6 @@ classDef class5 fill:#5e3332, stroke:#000, stroke-width:4px
     C-->F;
    click B "https://www.zakonrf.info/gk/106.1/";
    click C "https://www.zakonrf.info/gk/123.2/";
+   click D "https://www.zakonrf.info/doc-15088991/";
+   click E "https://www.zakonrf.info/doc-13529718/";
 ```
