@@ -30,5 +30,6 @@ classDef class5 fill:#5e3332, stroke:#000, stroke-width:4px
     B-->D;
     B-->E;
     C-->F;
-    click B "https://www.zakonrf.info/gk/106.1/";
+   click B "https://www.zakonrf.info/gk/106.1/";
+   click C "https://www.zakonrf.info/gk/123.2/";
 ```
