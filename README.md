@@ -5,7 +5,7 @@ Open Logical Tools Architecture
 
 ## Варианты и этапы создания печатных плат
 ```mermaid
-graph TD;
+graph LR;
 classDef class1 fill:#544457, stroke:#000, stroke-width:4px
 classDef class2 fill:#32465e, stroke:#000, stroke-width:4px
 classDef class3 fill:#455744, stroke:#000, stroke-width:4px
